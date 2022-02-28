@@ -1,0 +1,347 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Portraiture of Mr. George Keith the Quaker, in opposition to Mr. George Keith the parson. / Presented to the hearers of his late sermons. ; By a Protestant dissenter.</title>
+            <author>Protestant Dissenter.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90877</idno>
+            <idno type="STC">Wing P3006</idno>
+            <idno type="STC">ESTC R181969</idno>
+            <idno type="EEBO-CITATION">45097895</idno>
+            <idno type="OCLC">ocm 45097895</idno>
+            <idno type="VID">171474</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90877)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171474)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2575:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Portraiture of Mr. George Keith the Quaker, in opposition to Mr. George Keith the parson. / Presented to the hearers of his late sermons. ; By a Protestant dissenter.</title>
+                  <author>Protestant Dissenter.</author>
+                  <author>Keith, George, 1639?-1716.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>And sold by the booksellers of London and Westminster.,</publisher>
+                  <pubPlace>London printed, :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keith, George, 1639?-1716.</term>
+               <term>Quakers --  England.</term>
+               <term>Theology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171474:1" rendition="simple:additions"/>
+            <pb facs="tcp:171474:1"/>
+            <pb facs="tcp:171474:2"/>
+            <pb facs="tcp:171474:2" rendition="simple:additions"/>
+            <p>THE <hi>PORTRAIT<g ref="char:V">Ʋ</g>RE</hi> OF Mr. <hi>George Keith</hi> THE QUAKER, In Oppoſition to Mr. <hi>George Keith</hi> THE PARSON.</p>
+            <p>
+               <hi>Preſented to the Hearers of his late</hi> Sermons.</p>
+            <p>By a Proteſtant Diſſenter.</p>
+            <q>
+               <bibl>G. K<hi>'s Serious Appeal, p. 21.</hi>
+               </bibl>
+               <p>Let but the Reader ſee my own Words, in my printed Books, and well conſider them; and if he have but a little Sound Judgment, he will eaſily find, I have not contradicted my Self in <hi>any thing.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON</hi> Printed, and Sold by the Bookſellers of <hi>London</hi> and <hi>Weſtminſter.</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171474:3"/>
+            <pb n="3" facs="tcp:171474:3"/>
+            <p>THE PORTRAITURE OF Mr. <hi>George Keith,</hi> &amp;c.</p>
+            <p>THe Expoſing this Perſon, I am now concerned with, in his proper Colours (who yet told the World in his firſt Narrative, p. 15. <hi>I know not any Fundamental Principle, nor indeed any <hi>One</hi> Principle of the Chriſtian Faith, that I have varied from to this day</hi>) hath lain hitherto moſtly upon the <hi>Quakers,</hi> and a <hi>Moderate Church<g ref="char:EOLhyphen"/>man;</hi> and it hath driven him (or <hi>Money hath tempted him</hi>) after having made a ricketty Retractation, imperfect in almoſt all the parts of it, to give them the greateſt Contradiction, that a Proteſtant was capable of doing; ſo obvious is the Diſparity between a Teacher among the Quakers, and a Miniſter of the Church of <hi>England.</hi> Nor hath he (I Appeal to you, <hi>Gentlemen,</hi> whoſe Curioſity hath led you to be his Hearers of late) gone off quiet, with the reſt of his Diſſenting Proteſtant Brethren, nay not his <hi>particular</hi> Friends, but as a Man Fighting <hi>pro aris &amp; focis,</hi> and who would Monopolize the Character of <hi>Iſhmael</hi> to himſelf, viz: <hi>His Hand againſt every Man, and every Man's Hand againſt him;</hi> he ſpares none, but proclaims War againſt them all; and I fear not ſo much to ingratiate him<g ref="char:EOLhyphen"/>ſelf
+<pb n="4" facs="tcp:171474:4"/>with his new Maſters, or to Reform us, as to blow up the Coals of <hi>Perſecution</hi> againſt us all,<note place="margin">Preached at St. <hi>George</hi>'s <hi>Buttolph</hi>'s, in the Af<g ref="char:EOLhyphen"/>ternoon, the laſt Leafe but one.</note> not obliquely hinted at in one * of his late printed Sermons. This rendring him a com<g ref="char:EOLhyphen"/>mon Enemy and Make-bate, (for if his Malice prevail, we are like to be Sufferers in common) wonder not, gentle Reader, if by our <hi>joynt</hi> Endeavours, after Examination, and finding him a fickle <hi>Proteus,</hi> we ſubmit our gleanings to his Auditors, that they may ſee him as he is, and beware of him. Could he give proof he were a <hi>Sincere Convert,</hi> like St <hi>Paul,</hi> who once had Zeal with<g ref="char:EOLhyphen"/>out Knowledge, not Knowledge without Zeal; God forbid, we ſhould do other than pity him, and inform him better, wherein we differ from him, and apprehend him miſled: But if upon the reading of theſe, the contrary appear, my endeavours in de<g ref="char:EOLhyphen"/>tecting him, I hope, will not be unacceptable to any good Man.</p>
+            <p>What I have collected of this kind, is much of it <hi>New,</hi> not offered before (that I have obſerved) and the method ſome<g ref="char:EOLhyphen"/>what different. The Reader is left to compare what is here ci<g ref="char:EOLhyphen"/>ted, with what he well knows to be the Doctrine of that Church, <hi>G. K.</hi> is now a Member of, or hath heard or read from his late Sermons, too well known to contradict his Sentiments here given, to need either Comment or Tranſcribing. And whether the Arguments formerly delivered, when he went a<g ref="char:EOLhyphen"/>gainſt both Wind and Tide, have been <hi>(even faintly)</hi> attacked, ſince both have been for him; much more whether invalidated or ſufficient to ſet him ſtrait in the Opinion of the <hi>Judicious</hi> and <hi>Conſciencious,</hi> is ſubmitted to ſuch. And thus I enter upon my Citations.</p>
+            <div n="1" type="part">
+               <head>I. Out of <hi>G. K</hi>'s Book, entituled, <hi>Help in time of need,</hi> &amp;c. printed <hi>Anno</hi> 1665.</head>
+               <div n="1" type="section">
+                  <head>1. <hi>His Charge againſt the Preſbyterians of</hi> Scotland, <hi>turned upon himſelf.</hi>
+                  </head>
+                  <p>
+                     <hi>The Title Page begins thus,</hi>
+                     <q>Help in time of need, from the God of Help, to the People of the (ſo called) Church of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> eſpecially the once more Zealous and Profeſſing, who have ſo ſhamefully degenerated and declined from that which
+<pb n="5" facs="tcp:171474:4"/>their Fathers, the Primitive Proteſtants, attained unto; yea, and from what they have but of late themſelves, ſo zealouſly aſſerted and maintained to be the Cauſe and Work of God, which now they have generally ſhrunk from—like the Dog returning to the Vomit, and the Sow to the Puddle, after the being once Waſhed.</q>—</p>
+                  <p>
+                     <q>Were not ſet Forms of Prayer cryed down alſo in <hi>Scotland,</hi> as lifeleſs, barren things (and the Service Book denied?<note place="margin">P. 24, 25.</note>) And now have ye not again licked up the Vomit?—And have not your Brethren in <hi>England</hi> taken it up again? And when it's offered to you to read, will you not alſo do the like? There is no queſtion of it, but moſt of you will, and worſe alſo, when ye are put to the tryal.</q>
+                  </p>
+                  <p>
+                     <q>Now, have ye not <hi>Apoſtatized</hi> herein alſo,<note place="margin">P. 26.</note> and mixed your ſelves with the profane Rabble of the World, as bad and worſe than Papiſts, Turks, Pagans, which hath provoked the Lord to withdraw from among you, and ye can Pray, and Sing, ☜ and Communicate with ſuch? Is not this <hi>Babylon</hi> indeed? Which is to ſay, <hi>Confuſion.</hi>
+                     </q>
+                  </p>
+                  <p>
+                     <q>And by the by, I would ask you one Queſtion,<note place="margin">P. 28, 29.</note> If the Popiſh Church be a true Church (tho' Corrupt) why have ye ſepa<g ref="char:EOLhyphen"/>rated from it? And how can ye juſtify your Separation there<g ref="char:EOLhyphen"/>from?<note place="margin">See his Sermon Preached at St. <hi>George</hi>'s <hi>Buttolph</hi>'s, before no<g ref="char:EOLhyphen"/>ted.</note> For its another Principle of yours, <hi>That a Church holding the Fundamentals</hi> (<hi>which make,</hi> ſay ye, <hi>a true Church</hi>) <hi>tho' there be many Corruptions therein, is not to be ſeparated from.</hi> And this Principle ye have taken up to juſtifie your Compliance with <hi>Prelacy,</hi> and this late Church Model and Frame, which ye formerly vomited up, and not only quit it, ☜ but vowed to God againſt the ſame: And now it ſtood ſomewhat againſt your Stomachs to receive it among you again—till ye fell upon this Pill, whereby ye got it digeſted, <hi>viz. The Epiſcopal Party is a true Church, and therefore we ought not to ſeparate from them, becauſe of their Corruptions;</hi> and ſhunning one inconveniency, Have ye not fallen upon another far greater, and quite given away your Cauſe into the hands of the Papiſts.</q>
+                  </p>
+                  <p>
+                     <q>Now <hi>Judas</hi> fell from his Miniſtry in Selling his Maſter Chriſt,<note place="margin">ibid.</note> which generally your Miniſters have done, and have they not thereby fallen from their Miniſtry?</q>
+                  </p>
+                  <p>
+                     <q>I know well,<note place="margin">P. 37.</note> generally they have <hi>kept to their God</hi> all along very conſtantly, amongſt all their Changes, being ſuch (the
+<pb n="6" facs="tcp:171474:5"/>Apoſtle mentions) generally, <hi>whoſe God is their Belly,</hi> and this Maſter they have ſerved, and do ſerve very Faithfully, making every Change anſwer its deſign.</q>
+                  </p>
+                  <p>
+                     <q>It was diſcovered unto them by the Light,<note place="margin">ibid.</note> and they diſcern<g ref="char:EOLhyphen"/>ed <hi>Prelacy to be a limb of Antichriſt,</hi> and ſo called it, and but of late days it was Covenanted to God againſt, again and again; and did not ye your ſelves Vow to God againſt the ſame? So that herein ye have not only <hi>Apoſtatized</hi> from your Fathers, but from what ye were of late your ſelves.</q>
+                  </p>
+                  <p>
+                     <q>I know not amongſt the Thouſands of you (Miniſters or People) that vowed to God againſt that <hi>filthy thing ſet up in the Land,</hi>
+                        <note place="margin">P. 38, 39.</note> any of you all bear a ſuitable Teſtimony by Sufferings— The cauſe I ſay is common to you with us, <hi>viz.</hi> our Teſti<g ref="char:EOLhyphen"/>mony againſt that which is <hi>now ſet up in the Land;</hi> and both Ye, and many of <hi>
+                           <g ref="char:V">Ʋ</g>s</hi> alſo, vowed to the moſt high God, while we were among you, we would never own ſuch a thing, and <hi>we have kept to our Vow,</hi> and ye have ſhrunk therefrom.</q> 
+                     <hi>[How doth this hold now?]</hi>
+                  </p>
+                  <p>
+                     <q>The whole Proteſtant Church in <hi>Europe</hi> hath much degene<g ref="char:EOLhyphen"/>rated from the Primitive Chriſtians and Proteſtants,<note place="margin">P. 45.</note> 
+                        <hi>both in Principles and Practices,</hi> and is become <hi>quite another thing;</hi> retain<g ref="char:EOLhyphen"/>ing the Name, like an old rotten Ship, that hath been ſo often Clamped and Clouted, that <hi>all</hi> the former Timbers are <hi>worn</hi> ☞ <hi>out,</hi> and others put in their place, yet keeping the Name, and <hi>ſomewhat</hi> of the Form and Shape; and ye have ſailed long up and down in this old rotten Ship, which is juſt upon the Split<g ref="char:EOLhyphen"/>ting, and ſuffering Shipwrack.</q>
+                  </p>
+                  <p>
+                     <q>For that ye kept not chaſte to his Light in your Conſciences,<note place="margin">P. 50.</note> nor to the leadings of his Spirit, this was it which diſcover'd to you the <hi>Popiſh</hi> and <hi>Prelatical</hi> Abominations—Oh ye did <hi>run well,</hi> who did hinder you? But ye are become ſo fooliſh, who began in the Spirit, to end in the Fleſh; and now when ye had got upon the Walls and Bulwarks of your Enemies Building, and levelled it to the Ground; when ye had <hi>root<g ref="char:EOLhyphen"/>ed out Prelacy,</hi> and the <hi>many Corruptions and Superſtitions</hi> accom<g ref="char:EOLhyphen"/>panying the ſame, and digged down a good part of <hi>Babylon</hi>'s up-ſetting, then ye betook your ſelves to Build—.</q>
+                  </p>
+                  <p>
+                     <q>Ye were angry at their Revenues being ſo great,<note place="margin">P. 53.</note> and yet ye ſtept in alſo to many of them, and into their Pride, Cove<g ref="char:EOLhyphen"/>touſneſs, Lightneſs, Vanity, Ambition, Careleſneſs concern<g ref="char:EOLhyphen"/>ing
+<pb n="7" facs="tcp:171474:5"/>the Work of Jeſus Chriſt, and the Salvation of poor Peo<g ref="char:EOLhyphen"/>ple, whereof ye took up the Charge; and many other Iniqui<g ref="char:EOLhyphen"/>ties, <hi>they were found in,</hi> for which the Lord was provoked againſt them, ye have taken as it were a Succeſſion of, and ye thought the Lord would have winked at you—.</q>
+                  </p>
+                  <p>
+                     <hi>[He cloſeth thus]</hi>
+                     <q>The word of Commandment from the Lord (which filled me with heavenly Joy and Comfort) came unto me the 30th Day of the 10th Month (called <hi>December</hi>) ſaying,<note place="margin">P. 54.</note> 
+                        <hi>Shew unto the People of</hi> Scotland <hi>my true and righteous Judgment, concerning the Particulars above-mentioned.</hi>
+                     </q>
+                  </p>
+               </div>
+               <div n="2" type="section">
+                  <head>2. <hi>Of the Ordinances.</hi>
+                  </head>
+                  <p>
+                     <q>Put not the name of the Ordinances of Jeſus Chriſt upon <hi>Babylon's Brats,</hi>
+                        <note place="margin">P. 73.</note> which whoſo taketh and daſheth them to pieces againſt the Stones, Bleſſed ſhall they be.</q>
+                  </p>
+               </div>
+               <div n="3" type="section">
+                  <head>3. <hi>His Character of Epiſcopacy.</hi>
+                  </head>
+                  <p>
+                     <q>Ye [the Presbyterians of <hi>Scotland</hi>] did well in departing from ſuch Men,<note place="margin">P. 47, 48.</note> who gave themſelves forth to be the Lord's Mini<g ref="char:EOLhyphen"/>ſters and Servants, but they ran and he ſent them not; and their Covetouſneſs and Ambition, and ſeeking how to pleaſe Men <hi>for their own Ends,</hi> and not his Honour, not any true Zeal for him, ſet them on ſuch a work, to Lord it over the People, which he had forbidden, and it is <hi>Abomination</hi> to him; together with the many things accompanying them, which they gave forth for his Ordinances, good Order, De<g ref="char:EOLhyphen"/>cency and Comelineſs in the Church; but were the meer Inven<g ref="char:EOLhyphen"/>tions of Men, and <hi>Babylon</hi>'s Golden Cup of Fornications—.</q>
+                  </p>
+                  <p>
+                     <q>—Becauſe of the Iniquity of ſuch Men, their Pride, Pomp,<note place="margin">ibid.</note> Covetouſneſs, Tyranny and Ambition, his Wrath kindled a<g ref="char:EOLhyphen"/>gainſt them, and he poured Contempt and Deſolation upon them, for the cry of their Wickedneſs.</q>
+                  </p>
+               </div>
+               <div n="4" type="section">
+                  <head>4. <hi>His Character of the Quakers.</hi>
+                  </head>
+                  <p>
+                     <q>And now, whether ye will hear or forbear,<note place="margin">P. 78, 79.</note> this I do declare unto you, in the <hi>Name, and Power, and Authority of the living God,</hi> The day of the Lord is of a truth broke up amongſt ☜
+<pb n="8" facs="tcp:171474:6"/>us, and ye ſhall look till your Eyes fail you, and rot within your holes, ere ever ye ſee another Day, or Appearance of Jeſus Chriſt, to your Comfort, than what we, the People of the Lord, called <hi>Quakers,</hi> do witneſs come, and yet more abundantly coming—.</q>
+                  </p>
+               </div>
+               <div n="5" type="section">
+                  <head>5. <hi>Of <g ref="char:V">Ʋ</g>niverſities and Humane Learning.</hi>
+                  </head>
+                  <p>
+                     <q>Away with the Education of Youth at Univerſities and Col<g ref="char:EOLhyphen"/>ledges, of <hi>Philoſophy,</hi>
+                        <note place="margin">P, 75, 76<g ref="char:punc">▪</g>
+                        </note> ſo called; I may ſay of them, which <hi>Lu<g ref="char:EOLhyphen"/>ther</hi> ſtuck not to call them in his day, that they are the <hi>Stews of Anti-christ;</hi> for out of them comes this ignorant, profane, ſcandalous Miniſtry, wherein they learn to talk of things they Underſtand not, and to prate in Man's Wiſdom, which is Carnal, Earthly and Deviliſh.</q>
+                  </p>
+                  <p>
+                     <q>I certainly know the Humane Wiſdom or Learning is one of the <hi>main</hi> Bulwarks of Antichriſt againſt the Revelation and ſetting up the Kingdom of Chriſt in the Earth;<note place="margin">ibid.</note> and becauſe this is ariſing, and ſhall riſe, down muſt the other go, and all who ſeek to uphold it ſhall fall therewith.</q>
+                  </p>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <head>
+                  <hi>II. Out of</hi> G. K<hi>'s Book, entituled,</hi> The Woman-Preacher of <hi>Samaria</hi> a better Preacher, and more ſufficiently qualified to Preach than <hi>any</hi> of the Men-Preachers of the Man-made-Miniſtry, in theſe three Nations. <hi>Printed</hi> Anno <hi>1674.</hi>
+               </head>
+               <div n="6" type="section">
+                  <head>6. <hi>Of the National Miniſtry.</hi>
+                  </head>
+                  <p>
+                     <q>— I my ſelf have had ſundry Debates, with both <hi>Con<g ref="char:EOLhyphen"/>formiſts</hi> and <hi>Non-conformiſts,</hi>
+                        <note place="margin">P. 3, 4.</note> ſo called, touching this ſame thing, <hi>both</hi> affirming that true Faith and Piety was not needful to a Man's being a Preacher, but that Letter-Learning was need<g ref="char:EOLhyphen"/>ful; ſo that he could not be a Preacher without Letters, but he could be a Preacher without Faith and Piety. O <hi>abominable Doctrine<g ref="char:punc">▪</g>
+                        </hi> And this ſame rule <hi>both</hi> follow, in their trying Mens Qualifications unto the Miniſtry; they try what know<g ref="char:EOLhyphen"/>ledge
+<pb n="9" facs="tcp:171474:6"/>they have in Strange Languages, and Arts, and Sciences, Natural, and what they can ſay upon places of Scripture, but never <hi>one Word</hi> they queſtion them, concerning the Work of God in their Hearts; or concerning their Faith and Piety. But ☜ alas! How can they try them concerning the work of Grace in their Hearts, ſeeing they acknowledge they have not a diſ<g ref="char:EOLhyphen"/>cerning themſelves, whereby to know them ſurely and infalli<g ref="char:EOLhyphen"/>bly? Yea, they affirm, There is no ſuch diſcerning in theſe days, as whereby Men can be known to be truly Gracious. And doth not ſad Experience ſhew it, that the <hi>Generality</hi> of thoſe Preachers have not true Faith and Piety, their Lives and Con<g ref="char:EOLhyphen"/>verſations are ſo Groſs and Carnal? Yea, do not many of them<g ref="char:EOLhyphen"/>ſelves ſee it, and have they not complained of it? And yet doth not this Principle of theirs, That wicked Men may be Preachers, and ought to be received, lay a Foundation for a wicked Miniſtry? And this Foundation being laid with <hi>their own Hands,</hi> will not wicked Men come in Thick and Throng? ☜ And will not theſe wicked Men love to have all like them<g ref="char:EOLhyphen"/>ſelves? If they can have a wicked Man, will not the wicked prefer him to another, that but ſeems to be a Godly, and may, or may not be? And thus in proceſs of time, the <hi>whole</hi> Mini<g ref="char:EOLhyphen"/>ſtry will conſiſt of ungodly Men, the wicked being ſtill pre<g ref="char:EOLhyphen"/>ferred by the wicked, and carrying it by moſt Votes, as among them called <hi>Preſbyterians;</hi> or by the <hi>Authority of the Biſhop,</hi> as among the <hi>Epiſcopal.</hi> Oh! for ſhame never ſay, that <hi>you are for a godly Miniſtry,</hi> while you <hi>both</hi> lay ſuch a Foundation for the ungodly.</q>
+                  </p>
+                  <p>
+                     <q>Now which of the two ways of Preaching are the beſt;<note place="margin">P. 6.</note> to Preach only from a Hear-ſay, by others, or from a Sight and Hearing of Chriſt himſelf? Surely this was the beſt, and therefore this Woman is a better Preacher than all your Uni<g ref="char:EOLhyphen"/>verſity-Men, and Doctors, and Batchelors. She learned more of Chriſt, from himſelf in that ſmall time (perhaps not one hour's length) than your Doctors and Univerſity-Men have <hi>yet</hi> learned, for all their many Years Studying, Labouring, Reading and Hearing. As Chriſt upbraided the Jews, that they had <hi>neither heard his Father's Voice, nor ſeen his Shape;</hi> ſo it may be ſaid of them, yea they ſay it themſelves, they have neither heard him, nor ſeen him. Alas for ſuch Teachers! What ſhould Men <hi>hear them for?</hi> They can tell us <hi>no more</hi> of
+<pb n="10" facs="tcp:171474:7"/>him, but as they have heard it from Men, or read it in the Scripture; and all their Knowledge is from the Scripture, and all have the Scripture as well as they, and ſo without them, by the Scripture, may know as much of Chriſt as they, and ſave both their pains and their Money.</q>
+                  </p>
+               </div>
+               <div n="7" type="section">
+                  <head>7. <hi>Of their Maintenance.</hi>
+                  </head>
+                  <p>
+                     <q>A Father hath three Sons,<note place="margin">P. 8, 9.</note> one of them he thinks may be fit to be made a Lawyer, another to be a Doctor of Phyſick, a third (and that commonly the <hi>greateſt Dunce or Dolt of the three,</hi> finding him not ſo fit for other things) he reſolves he will have him a Miniſter, or Preacher, that it may be a living to him; and ſo away he ſends them all to the Grammar-School, and from that to the Univerſity; and thus one becomes a ☞ Preacher, only by that which is <hi>Natural</hi> and <hi>Artificial,</hi> as the other two become the Lawyer and Phyſitian; here is nothing of God or Chriſt ſeen <hi>more</hi> in the one than in the other: Is it not ſo <hi>generally</hi> among them? They are become Preachers by a Deſign or Contrivance of their Parents, or themſelves. As ſoon as they become ſo old, as to have ſo much natural Wit as to ſee they muſt make ſome ſhift how to live, and looking about the many Trades, they readily ſee it is the far eaſieſt of many, or moſt Trades, to be a Preacher, to get Money; for it is little Labour, in Reſpect of many other Labours, and much Gain, and alſo brings Honour; for if he had been of never ſo mean a Degree, and of the moſt abject and mean Parents in all the Country, yet to become a Preacher, maketh him to be eſteemed a <hi>Gentleman,</hi> and be called <hi>Sir,</hi> and perhaps to be ad<g ref="char:EOLhyphen"/>vanced to be a <hi>Biſhop,</hi> and then he will be called, <hi>My Lord.</hi> But how many either of one ſort or another of them, whether <hi>Epiſcopal</hi> or <hi>Preſbyterian,</hi> are to be found, who have been called from ſome other Calling or Occupation they were in before, to leave it, and go to Preach Chriſt, as this Woman was called from her Water Pot, immediately to Preach him, in a City of <hi>Samaria,</hi> called <hi>Sychar?</hi> And yet thus were the true Servants of the Lord called, who were Mechanick-men and Tradeſ<g ref="char:EOLhyphen"/>men, <hi>&amp;c.</hi>
+                     </q>
+                  </p>
+                  <p>She preached Chriſt freely—She ſaid not unto them,<note place="margin">P. 10.</note> 
+                     <q>
+                        <hi>What Money or Hire will you give me, and I will Preach Chriſt unto you?</hi>
+                        <pb n="11" facs="tcp:171474:7"/>Nay, nay, ſhe was not of ſuch a <hi>Mercinary</hi> Spirit, ſhe was <hi>more noble;</hi> far unlike the Preachers of the <hi>Man-made-Miniſtry,</hi> in theſe Days, whether <hi>Epiſcopal,</hi> or <hi>Presbyterian,</hi> as well as <hi>Popiſh,</hi> where all is done for Money; No Money, no Preaching; as the ☜ old Proverb is, <hi>No Penny, no Pater noſter.</hi>
+                     </q> [G. K. may ſpeak this now feelingly.]</p>
+               </div>
+               <div n="8" type="section">
+                  <head>8. <hi>Of their Doctrine.</hi>
+                  </head>
+                  <p>
+                     <q>—But ſo do not theſe Men of the <hi>Man-made-Miniſtry</hi> Preach him; Nay, but the contrary: For, ſay they,<note place="margin">P. 13.</note> That is not Chriſt which convinceth every Man of his Sins, and tells him all that ever he did, it is but a Humane Principle, not Divine; it it is but Natural, not Spiritual; a Natural Light, <hi>&amp;c.</hi>—and ſo deny his <hi>Divinity,</hi> and Divine Power and Godhead.</q> [Is not this an Error in Fundamentals, to deny the Divinity of Chriſt? For ſo he charged them then.]</p>
+                  <p>
+                     <q>I will rather hear this Woman of <hi>Samaria,</hi> than hear them;<note place="margin">P. 14.</note> She bids, <hi>Come and ſee Chriſt himſelf;</hi> they ſay there is no ſeeing of him, nor hearing of himſelf, ſo long as we live upon Earth. Oh blind and deaf Men! who, becauſe they have neither heard him, nor ſeen him, therefore deny this bleſſed Privilege! Oh that People ſhould follow after them, and not ſee theſe blind Men!</q>
+                  </p>
+                  <p>
+                     <q>Whom have theſe of the <hi>Man-made-Miniſtry</hi> brought this length, that they are come unto Chriſt himſelf, and heard him, and ſeen him? Nay, both <hi>Teachers</hi> and People cry out gene<g ref="char:EOLhyphen"/>rally, <hi>This is not to be expected in this Life</hi>—</q>
+                  </p>
+                  <p>[<hi>Query,</hi> Are theſe Teachers and People now <hi>Reformed,</hi> or <hi>G. K. Deformed?</hi> The Principles unſound, or <hi>Turn-coat George</hi> become ſo?]</p>
+               </div>
+            </div>
+            <div n="3" type="part">
+               <head>
+                  <hi>III. Out of his Book, entituled,</hi> The Fundamental Truths of Chriſtianity briefly hinted at by way of Queſtion and Anſwer: To which is added, a Treatiſe of Prayer in the ſame Method. <hi>Printed</hi> Anno <hi>1688.</hi>
+               </head>
+               <p>Before I proceed, excuſe me, good Reader, if I make two Re<g ref="char:EOLhyphen"/>marks by the way: The one is, that here we have not a Syllable from him of our bleſſed Saviour Chriſt, his Birth, Sufferings, Death, Reſurrection, Aſcenſion and Mediation, notwithſtanding he pre<g ref="char:EOLhyphen"/>tends to give the <hi>Fundamental Truths of Chriſtianity.</hi> What, have theſe no ſhare in <hi>his</hi> Fundamental Truths? Or were they too trivial
+<pb n="12" facs="tcp:171474:8"/>be noticed? An unpardonable Omiſſion, believe me, in any but himſelf; enough to have given him a freſh occaſion to have aſcend<g ref="char:EOLhyphen"/>ed his Stage at <hi>Turner's-Hall</hi> once more, were he not <hi>now</hi> better provided for; and I think he ought not to come off cheaper, than <hi>(more patrio)</hi> ſtanding in a <hi>White-Sheet</hi> for it. The next is, That Prayer, right Prayer, Praying ſo as to be acceptable with God, is a <hi>Fundamental</hi> Principle of Chriſtianity. If he call that <hi>good Prayer</hi> now, which he once aſſerted to be <hi>otherwiſe,</hi> two things lye upon him (telling us he is otherwiſe minded now, and that he <hi>gets his living</hi> by being ſo, will not ſerve) <hi>viz. Firſt,</hi> to enervate the Force of thoſe Arguments then delivered, which loſe not their Validity by his being a <hi>Weathercock:</hi> And <hi>2dly,</hi> To manifeſt himſelf <hi>not to have erred in Fundamentals,</hi> a Brag his late Prints have abounded with.</p>
+               <div n="9" type="section">
+                  <head>9. <hi>Of ſet Forms of Prayer, and Singing of Pſalms.</hi>
+                  </head>
+                  <p>[In his <hi>Preface</hi> to the Treatiſe of Prayer, he ſaith] <q>Wherefore the Apoſtle prayed to the Lord, that God would eſtabliſh the true Believers in him, <hi>in every good word and work,</hi> 2 Theſſ. 2.17. whence I conclude that <hi>good words</hi> are as real a Fruit of the Spirit, as good works or deſires; and theſe good words <hi>must not be borrowed words</hi> from the Mouths or Lines of others, made ready to our hands, but muſt ſpring from the inward fruitfulneſs of our Underſtandings, as the Spirit of the Lord doth water them, and make them fruitful after an heavenly ſort.</q>
+                  </p>
+                  <p>
+                     <q>To read ſet Forms of Prayer but of a Book, whether in pri<g ref="char:EOLhyphen"/>vate or publick,<note place="margin">P. 43.</note> and call that reading Prayer, is not <hi>nay part</hi> of Goſpel-Worſhip, or true and real Prayer, but rather one of the <hi>many Inventions and Traditions of Men</hi> ſince the <hi>Apoſtacy</hi>—If it had been the Will of God that ſuch a way of Worſhip ſhould have been uſed in the true Church, as a <hi>common Liturgy, or ſet Form of Prayers,</hi> it would have been uſed in the Apoſtles days— But neither the Apoſtles, nor their immediate Succeſſors, either made or uſed any ſuch ſet Forms of read Prayers. Nothing of ☞ this kind was known in the Church, either in <hi>Juſtin Martyr</hi> or <hi>Tertullian</hi> his time, who lived above 200 Years after Chriſt.</q>
+                  </p>
+                  <p>
+                     <q>So that it is as clear as the noon-day, that when theſe divine Giſts of Praying and Singing by the Spirit were <hi>lost,</hi>
+                        <note place="margin">P. 54, 45.</note> and the holy Spirit himſelf was in great meaſure <hi>departed</hi> from, the In<g ref="char:EOLhyphen"/>vention of reading ſet Forms of Prayer took place. The <hi>firſt</hi>
+                        <pb n="13" facs="tcp:171474:8"/>Inſtance that I find of Peoples being put to uſe a compoſed or ſet Form of Prayer, made by another, was that Form of Pray<g ref="char:EOLhyphen"/>er which <hi>Conſtantine</hi> the Great compoſed, and gave his Soldiers, not to read, but get by Heart.—He at this time was but a young Chriſtian, and the Purity of ſpiritual Worſhip began to decline a-pace, even in his days —But neither in <hi>Constantine</hi>'s time, nor a conſiderable ſpace thereafter, do I find, that any made or compoſed Prayers before-hand <hi>were uſed in the Church.</hi> ☜</q>
+                  </p>
+                  <p>
+                     <q>This way of Praying [<hi>to wit,</hi> in words, by the Spirit,<note place="margin">P. 56.</note> as he is pleaſed to give aſſiſtance] doth alone and only anſwer to the Liberty of the Spirit, which is free, even the holy Spirit of Truth, and neither <hi>will</hi> nor <hi>can</hi> be limited; and who ſeek to limit him, he departs from them in ſo far, and remaineth ſtill in his own freedom, altho' ſuch who ſeek to limit the Spirit by uſing ſet Forms, may and do <hi>quench the Spirit,</hi> as unto themſelves.</q>
+                  </p>
+                  <p>
+                     <q>The words of theſe ſet Forms, Whence came they?<note place="margin">P. 59.</note> Had the Spirit no influence upon the underſtanding of thoſe Men, who conceived them, to help and aſſiſt them in thoſe Conceptions? If they ſay, Nay, they will render the ſet forms of Prayer of ſmall value with the People, in that reſpect. But if they ſay, The Spirit did help them to form theſe Conceptions,—it may as well be in Men now to conceive <hi>other words</hi> of Prayer.</q>
+                  </p>
+                  <p>
+                     <q>Praying by a ſet Form, not only tends to limit and ſtint the Spirit, and quench it, in regard of its Operations,<note place="margin">P. 60.</note> but alſo it tendeth to make the Underſtanding, <hi>&amp;c.</hi> altogether barren and unfruitful, in reſpect of Prayer, which yet ought to exerciſe the Underſtanding, as much as any other thing, as <hi>Paul</hi> ſaid, <hi>I will Pray with the Spirit, I will Pray with Understanding alſo.</hi> For if the Underſtanding be limited to a ſet Form of Words, then there is no room, nor place, nor liberty left for it, to bring forth Prayer in any other Forms, the which <hi>ſeemeth verily as abſurd to me.</hi>
+                     </q>
+                  </p>
+                  <p>
+                     <q>Indeed a word ſpoken in ſeaſon,<note place="margin">P. 71, 72.</note> whether it be in Preaching or Praying, how ſweet and comfortable it is? Now theſe ſet Forms of Prayer being to be uſed according to the <hi>Calendar,</hi> ſuch Prayers on ſuch a day, and others on other days, as the <hi>Calen<g ref="char:EOLhyphen"/>dar, or order of the Service</hi> requireth; Can theſe Forms be always, or for moſt part, ſeaſonable to Peoples States and Conditions, un<g ref="char:EOLhyphen"/>leſs it could be ſuppoſed, that the inward States and Conditions of Mens Souls and Spirits ſhould regularly vary, according to the ſeaſons and days of the Year; which were moſt abſurd to ☜
+<pb n="14" facs="tcp:171474:9"/>think or imagine? Or how do theſe ſet Forms of Prayer, which tell us daily what to pray for, agree with <hi>Paul</hi>'s words, <hi>Rom.</hi> 8.26. <hi>The Spirit alſo helpeth our Infirmities, for we know not what we ſhould Pray for as we ought.</hi>
+                     </q>
+                  </p>
+                  <p>
+                     <q>From their uſing ſet Forms of Prayer and Bleſſing under the Law,<note place="margin">P. 77.</note> to argue for the uſe of them under the Goſpel, <hi>will not hold good;</hi> for not only Sacrifices, and Offerings of Beaſts, but many other things, were both commanded and allowed under the Law, which are not under the Goſpel.</q>
+                  </p>
+                  <p>
+                     <q>But we do not find, that even under the Law, or at any time before,<note place="margin">P. 79.</note> the Lord did limit or confine his People or Servants to ſuch a preciſe number of ſet Forms of Prayer—But on the contrary, we find that many prayed <hi>ex tempore</hi> by the Inſpira<g ref="char:EOLhyphen"/>tion of the Spirit, what the Lord did give them, or put into their Mouths of words, both in private and publick, as <hi>Solo<g ref="char:EOLhyphen"/>mon</hi>'s Prayer at the Dedication of the Temple; alſo <hi>Eſdras</hi>'s Prayer, chap. 9. and the <hi>Levites</hi> Prayer, <hi>Neh.</hi> 9. and <hi>Daniel</hi>'s Prayer, <hi>Dan.</hi> 9. &amp;c.</q>
+                  </p>
+                  <p>[To an Objection, <hi>That Chriſt taught his Diſciples to Pray in a ſet Form of words,</hi>
+                     <note place="margin">P. 81, 82.</note> he anſwers] <q>Though they were endued at that time with a meaſure of the Spirit, yet it was but <hi>ſmall,</hi> in re<g ref="char:EOLhyphen"/>ſpect of what was to follow: And we muſt remember, that as yet the Diſpenſation of the Law remained in force.—2. Chriſt did not limit them only to this Form of Prayer, nor did he give them a Book of Forms of Prayer,<note place="margin">P. 83.</note> or any other Forms that we read of, but <hi>this only,</hi> which therefore was rather to be a <hi>Pattern</hi> and <hi>Example</hi> unto them, according to which they were to Pray, than to tye or confine them to the preciſe number of the words of it.</q>
+                  </p>
+                  <p>
+                     <q>All true Prayer is a living thing,<note place="margin">P. 89.</note> and muſt have a living Form <hi>of its own,</hi> and cannot borrow the Form of another; even as a Roſe, or Tulip, or Lilly, or any other Flower, or Vegetable, or Fruit of the Earth, as it ſprings up out of the Ground, muſt have its own proper living Form and Figure.</q>
+                  </p>
+                  <p>
+                     <q>Either theſe ſet Forms of Prayer are few or many; if <hi>few,</hi> they cannot give a large underſtanding to the People;<note place="margin">P. 115, See his Sermon Preached at St. <hi>George</hi>'s <hi>Buttolph</hi>'s before no<g ref="char:EOLhyphen"/>ted.</note> if <hi>many,</hi> they cannot well be remembred by them: And if they were as many as would fill many Volumes, they cannot give ſo great occaſion to edifie and inform the Underſtanding, as theſe Prayers which proceed <hi>ex tempore,</hi> by the <hi>Inſpiration</hi> of the holy Spirit in holy Men,
+<pb n="15" facs="tcp:171474:9"/>which muſt needs be many more, and containing much more matter, than the greateſt Book of ever ſo many ſet Forms of Prayer can.</q>
+                  </p>
+                  <p>
+                     <q>What is here ſaid,<note place="margin">P. 127.</note> all along in this Treatiſe of Praying by the Spirit, helping to conceive the words of Prayer, is alſo to be underſtood of <hi>Singing</hi> and <hi>Praiſing God with a Pſalm;</hi> and the Reaſons and Arguments drawn from Scripture for the <hi>one,</hi> ſerve equally for the <hi>other;</hi> for all Singing and Praiſing with a <hi>Pſalm,</hi> or <hi>Pſalms,</hi> in Goſpel-times, was a ſpiritual Gift, as is clear in the Church of <hi>Corinth,</hi> when ſome had a <hi>Pſalm</hi> to utter or expreſs in words, as ſome had a <hi>Doctrine,</hi> and ſome a <hi>Revelation,</hi> ſome an <hi>Interpretation,</hi> 1 Cor. 14.26.</q>
+                  </p>
+               </div>
+               <div n="10" type="section">
+                  <head>10. <hi>His Deiſm.</hi>
+                  </head>
+                  <p>
+                     <q>My Charity is ſo <hi>large</hi> and free in that reſpect,<note place="margin">P. 103.</note> that I believe a<g ref="char:EOLhyphen"/>mong all People, <hi>Jews</hi> and <hi>Turks,</hi> as well as Chriſtians, and many of thoſe called <hi>Heathens,</hi> if they do believe in <hi>one onely God,</hi> and are Faithful to what they know; they are at times viſited with gentle Breathings of the Spirit of God, which helps them truly to Pray unto him, with Deſires, and Affections, and true Breath<g ref="char:EOLhyphen"/>ings ☜ of the Soul after him.</q>
+                  </p>
+                  <p>Having thus gone through Ten Heads of his Belief formerly, and ſcarce wedged in an <hi>Animadverſion,</hi> I leave, my Reader, to compare it with what muſt be his Sentiments now, (if he really believe, as that Church doth, of which he is admitted a Member) and with his weekly Sermons, I only add, <hi>his fruere mecum &amp; vale.</hi>
+                  </p>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:171474:10" rendition="simple:additions"/>
+                  <pb facs="tcp:171474:10"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
